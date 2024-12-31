@@ -4,10 +4,12 @@ Mexicana 🇲🇽
 
 *Diseñadora de corazón, desarrolladora por elección.*
 
-Mi enfoque es hacer sitios/apps web que no solo funcionen, sino que también hagan que el usuario disfrute navegar. ¡Me encanta darle vida al código y transformar ideas en algo visualmente atractivo!
+Mi enfoque es hacer sitios/apps web que no solo funcionen, sino que también hagan que el usuario disfrute navegar. 
+
+¡Me encanta darle vida al código y transformar ideas en algo visualmente atractivo!
 
 ### 💻 Tecnología que utilizo:
-- **Frontend**: React, JavaScript, HTML, CSS, TailwindCSS, Sass, Astro
+- **Frontend**: React, JavaScript, TypeScript, TailwindCSS, SASS, Emotion, Astro, Vite
 - **Backend**: Node.js, SQL
 - **UI**: Figma, Photoshop
 - **Herramientas de trabajo**: Git, GitHub
